@@ -2,7 +2,8 @@
 
 AI-Powered PicStory transforms images, videos, and voice inputs into engaging, multilingual narrated visual stories using AI-driven media analysis and speech synthesis.
 
-![WhatsApp Image 2025-03-31 at 21 10 01_e5fa626c](https://github.com/user-attachments/assets/58fe973c-73a7-4597-8a62-43ed927c53d5)
+![WhatsApp Image 2025-03-31 at 21 10 01_86eb6a98](https://github.com/user-attachments/assets/15961738-ca86-46ac-a699-a5d53066df5e)
+
 
 First, you need to register before logging in.
 
@@ -12,7 +13,8 @@ First, you need to register before logging in.
 
 ● Then click the "Register" button to register yourself
 
-![WhatsApp Image 2025-03-31 at 21 10 01_a7821b49](https://github.com/user-attachments/assets/bb2a668a-f789-4b64-a19e-7914bbfd94d6)
+
+![WhatsApp Image 2025-03-31 at 21 10 01_1cdb5103](https://github.com/user-attachments/assets/02ef8b9c-ed08-416b-952a-7c7bb18ecbc1)
 
 
 After successful registration, proceed to login.
@@ -23,7 +25,7 @@ After successful registration, proceed to login.
 
 ● Click "Login" to access your account.
 
-![WhatsApp Image 2025-03-31 at 21 10 01_3c64c8dd](https://github.com/user-attachments/assets/c29d5f52-0307-4516-b31e-c66ba02b9014)
+![WhatsApp Image 2025-03-31 at 21 10 01_8fdc353a](https://github.com/user-attachments/assets/14e3fb6e-1d9e-497f-99cc-70fc0506c695)
 
 Steps to generate a story using images and videos: 
 
@@ -74,8 +76,7 @@ Steps to generate a story using images and videos:
 ● The system will process the uploaded content and generate a story with narration
 
 
-
-![WhatsApp Image 2025-03-31 at 21 10 02_e35df079](https://github.com/user-attachments/assets/7dc5dac6-d8c2-485d-ad06-8331ee02f58b)
+![WhatsApp Image 2025-03-31 at 21 10 02_f1818b71](https://github.com/user-attachments/assets/cd231756-6421-4f7d-a2c9-5af72b93c162)
 
 ● User can log out anytime if he wants to quit or stop the process.
 
